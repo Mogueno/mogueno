@@ -1,4 +1,4 @@
-Greetings 🖖, I'm Mogueno
+# Greetings 🖖, I'm Mogueno
 
    [![Twitter: moguenao](https://img.shields.io/twitter/follow/Moguenao?style=social)](https://twitter.com/Moguenao)
    [![Linkedin: murilopreccaro](https://img.shields.io/badge/-Murilo%20Preccaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-preccaro-565050169/)](https://www.linkedin.com/in/murilo-preccaro-565050169/)
@@ -22,7 +22,7 @@ const mogueno = {
 ...
 ```
 
-   _My background_
+  ## _My background_
    
    _The beginning of my career was as a Performance Analyst, through which I have 
    built a profile that differs from the rest of the market, working directly with SEO, 
@@ -36,11 +36,11 @@ const mogueno = {
    development, taking part in the decision making process and technical support for 
    the rest of my current company._
 
- Wanna hear some good music?
+ ### Wanna hear some good music?
  
  ![Currently playing on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12148950172&cover_image=true&theme=default)
   
-  If you want some nerd stats, here you go 
+ ### If you want some nerd stats, here you go 
 
  ![Metrics](https://metrics.lecoq.io/mogueno?template=terminal&repositories.forks=true&config.timezone=America%2FSao_Paulo)
 
