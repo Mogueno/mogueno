@@ -40,9 +40,6 @@ const mogueno = {
  
  ![Currently playing on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12148950172&cover_image=true&theme=default)
   
- ### If you want some nerd stats, here you go 
-
- ![Metrics](https://metrics.lecoq.io/mogueno?template=terminal&repositories.forks=true&config.timezone=America%2FSao_Paulo)
 
 
 
