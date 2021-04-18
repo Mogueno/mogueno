@@ -8,8 +8,8 @@
 ...
 const mogueno = {
    experiences:"Over 3 years of experience with e-commerce and building modern web applications 
-   for large companies such as Saraiva, TokStok, DeGuns, ASICS, Swift, Whirlpool , 
-   Stanley and Black&Decker.",
+   for large companies such as Samsung, Saraiva, TokStok, DeGuns, ASICS, Swift, Whirlpool , 
+   Stanley and Black&Decker and more.",
    
    softSkills:["Problem Solving", "Mathematical aptitude", "Excellent organisational and time management skills",
    "Accuracy and attention to detail","Teamwork skills", "Natural born leader"],
