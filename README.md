@@ -11,7 +11,7 @@ const mogueno = {
    for large companies such as Samsung, Saraiva, TokStok, DeGuns, ASICS, Swift, Whirlpool , 
    Stanley and Black&Decker and more.",
    
-   softSkills:["Problem Solving", "Mathematical aptitude", "Excellent organisational and time management skills",
+   softSkills:["Problem Solving", "Mathematical aptitude", "Excellent organizational and time management skills",
    "Accuracy and attention to detail","Teamwork skills", "Natural born leader"],
    
    workingAllDayWith:["JavaScript", "React", "Node.js", "VTEX"],
