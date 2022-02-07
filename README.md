@@ -8,6 +8,7 @@
 ...
 const mogueno = {
    yearsOfExperience: 4,
+   
    expertise:"Building and maintaining modern web applications 
    for large companies such as Samsung, Saraiva, TokStok, DeGuns, ASICS, Swift, Whirlpool, 
    Stanley and Black&Decker and more. I'm also an adequate learner of any technology.",
