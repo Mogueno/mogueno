@@ -7,17 +7,19 @@
    ```js
 ...
 const mogueno = {
-   experiences:"Over 3 years of experience with e-commerce and building modern web applications 
-   for large companies such as Samsung, Saraiva, TokStok, DeGuns, ASICS, Swift, Whirlpool , 
-   Stanley and Black&Decker and more.",
+   yearsOfExperience: 4,
+   expertise:"Building and maintaining modern web applications 
+   for large companies such as Samsung, Saraiva, TokStok, DeGuns, ASICS, Swift, Whirlpool, 
+   Stanley and Black&Decker and more. I'm also an adequate learner of any technology.",
    
    softSkills:["Problem Solving", "Mathematical aptitude", "Excellent organizational and time management skills",
-   "Accuracy and attention to detail","Teamwork skills", "Natural born leader"],
+   "Accuracy and attention to detail", "Teamwork skills", "Natural born leader"],
    
-   workingAllDayWith:["JavaScript", "React", "Node.js", "VTEX"],
+   nowWorkingWith:["Golang", "Java", "Cloud Services"],
    
-   improvingOnPersonalProjects:["CI/CD", "JAMStack(Next and Gatsby)", "Mobile Development", "Docker", "GoLang",
-   "Microsservices", "Kafka", "Kubernetes", "Software Architecture"]
+   I'amAlsoProficientAt:[ "JavaScript", "React", "Node.js", "VTEX Platform"],
+   
+   improvingOnPersonalProjects:["Web3", "Mobile Development", "Software Architecture"],
 }
 ...
 ```
@@ -34,7 +36,7 @@ const mogueno = {
    
    _I have also acted as technical leader on both areas, performance and software 
    development, taking part in the decision making process and technical support for 
-   the rest of my current company._
+   the rest of my the company._
 
  ### Wanna hear some good music?
  
