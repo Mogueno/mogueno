@@ -31,9 +31,14 @@ _Close to 5 years of IT experience as a Full Stack software engineer. The beginn
 _I enjoy being the owner of the softwares that I build, and working close to the Product/Business team to deliver maximum value to the final customer (Pareto all the way), it is also a oportunity for me to show my creativity and proactivity on the projects that I work for._
 
 Relevant past work experiences 
-* developing and maintaining products for Mercado Livre, the biggest marketplace in Latin America, mostly microservices that have a huge amount of throughput (starting at 8-10K RPM)
-*Founder Engineer at AssetReality, WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
+
 *Working for the Silicon Valley company Revvable, building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, and more. 
+
+
+* developing and maintaining products for Mercado Livre, the biggest marketplace in Latin America, mostly microservices that have a huge amount of throughput (starting at 8-10K RPM)
+
+*Founder Engineer at AssetReality, WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
+
 
 I'm also starting to build my own company and going into the entrepreneur space.
 
