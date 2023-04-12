@@ -30,12 +30,12 @@ _I enjoy being the owner of the softwares that I build, and working close to the
 
 Relevant past work experiences 
 
-*Working for the Silicon Valley company Revvable, building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, and more. 
+* Working for the Silicon Valley company Revvable, building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, and more. 
 
 
 * developing and maintaining products for Mercado Livre, the biggest marketplace in Latin America, mostly microservices that have a huge amount of throughput (starting at 8-10K RPM)
 
-*Founder Engineer at AssetReality, WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
+* Founder Engineer at AssetReality, WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
 
 
 I'm also starting to build my own company and going into the entrepreneur space.
