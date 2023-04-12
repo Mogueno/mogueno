@@ -15,11 +15,9 @@ const mogueno = {
    softSkills:["Problem Solving", "Mathematical aptitude", "Excellent organizational and time management skills",
    "Accuracy and attention to detail", "Teamwork skills", "Natural born leader"],
    
-   nowWorkingWith:["Golang", "Java", "Cloud Services"],
+   nowWorkingWith:["Golang", "gRPC", "GPC", "Typescript", "React" ],
    
-   I'amAlsoProficientAt:[ "JavaScript", "React", "Node.js", "VTEX Platform"],
-   
-   improvingOnPersonalProjects:["Web3", "Mobile Development", "Software Architecture"],
+   improvingOnPersonalProjects:["Web3", "Software Solutions", "Micro SaaS"],
 }
 ...
 ```
