@@ -32,7 +32,7 @@ _I enjoy being the owner of the softwares that I build, and working close to the
 
 Relevant past work experiences 
 
-* Created D4Market.net, fully functional auction house for the game Diablo 4.
+* Created [D4Market.net](https://d4market.net), fully functional auction house for the game Diablo 4.
 
 * Developed a multi-tenant app, with Postgres and RLS (Row Level Security) for [KS2](https://www.ks2inc.com).
 
