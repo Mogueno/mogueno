@@ -30,7 +30,7 @@ _6 years of IT experience as a Full Stack software engineer. The beginning of my
 
 _I enjoy being the owner of the softwares that I build, and working close to the Product/Business team to deliver maximum value to the final customer (Pareto all the way), it is also a oportunity for me to show my creativity and proactivity on the projects that I work for._
 
-Relevant past work experiences 
+Relevant past work experiences and side projects
 
 * Created [D4Market.net](https://d4market.net), fully functional auction house for the game Diablo 4.
 
@@ -43,8 +43,7 @@ Relevant past work experiences
 * Founder Engineer at [Asset Reality](https://www.assetreality.com/), WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
 
 I'm also starting to build my own company and going into the entrepreneur space 
-* [Ja Marquei](https://ja-marquei.webflow.io) - Find and get a schedule in sports courts near you with ease. 
-  Comming soon...
+* [Ja Marquei](https://ja-marquei.webflow.io) - Find and get a schedule in sports courts near you with ease. 🚧 WIP
 
 ### Wanna hear some good music?
  
