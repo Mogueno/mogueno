@@ -36,11 +36,11 @@ Relevant past work experiences
 
 * Developed a multi-tenant app, with Postgres and RLS (Row Level Security) for [KS2](https://www.ks2inc.com).
 
-* Working for the Silicon Valley company Revvable, building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, and more. 
+* Working for the Silicon Valley company [Revvable](https://www.revvable.com/), building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, and more. 
 
-* developing and maintaining products for Mercado Livre, the biggest marketplace in Latin America, mostly microservices that have a huge amount of throughput (starting at 8-10K RPM)
+* developing and maintaining products for [Mercado Livre](https://www.mercadolivre.com.br/), the biggest marketplace in Latin America, mostly microservices that have a huge amount of throughput (starting at 8-10K RPM)
 
-* Founder Engineer at AssetReality, WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
+* Founder Engineer at [Asset Reality](https://www.assetreality.com/), WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
 
 I'm also starting to build my own company and going into the entrepreneur space 
 * [Ja Marquei](https://ja-marquei.webflow.io) - Find and get a schedule in sports courts near you with ease. 
