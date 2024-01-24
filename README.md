@@ -17,9 +17,8 @@ const mogueno = {
    softSkills:["Problem Solving", "Mathematical aptitude", "Excellent organizational and time management skills",
    "Accuracy and attention to detail", "Teamwork skills", "Natural born leader"],
    
-   nowWorkingWith:["NestJS", "oracle_cloud", "TypeORM", "Multi-tenant" ,"Typescript", "React" ],
-   
-   improvingOnPersonalProjects:["Software Solutions", "Micro SaaS"],
+   nowWorkingWith:["Golang", "GCP", "Typescript", "React", "GRPC"],
+
 }
 ...
 ```
@@ -32,35 +31,19 @@ _I enjoy being the owner of the softwares that I build, and working close to the
 
 Relevant past work experiences and side projects
 
+* Working for the Silicon Valley company [Revvable](https://www.revvable.com/), building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, Quoting, Notifications, Third Party integrations and more. 
+
 * Created [D4Market.net](https://d4market.net), fully functional auction house for the game Diablo 4.
 
 * Developed a multi-tenant app, with Postgres and RLS (Row Level Security) for [KS2](https://www.ks2inc.com).
 
-* Working for the Silicon Valley company [Revvable](https://www.revvable.com/), building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, and more. 
-
-* developing and maintaining products for [Mercado Livre](https://www.mercadolivre.com.br/), the biggest marketplace in Latin America, mostly microservices that have a huge amount of throughput (starting at 8-10K RPM)
+* Developing and maintaining products for [Mercado Livre](https://www.mercadolivre.com.br/), the biggest marketplace in Latin America, mostly microservices that have a huge amount of throughput and resiliency. 
 
 * Founder Engineer at [Asset Reality](https://www.assetreality.com/), WEB3 company that does private investigation and seized asset management for the Law Enforcement, and various others governmental entities.
 
-I'm also starting to build my own company and going into the entrepreneur space 
+I'm also a extremelly creative engineer, and I love to build stuff that I will use, one example of that is: 
 * [Ja Marquei](https://ja-marquei.webflow.io) - Find and get a schedule in sports courts near you with ease. 🚧 WIP
 
 ### Wanna hear some good music?
- 
+
  ![Currently playing on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12148950172&cover_image=true&theme=default)
-  
-
-
-
-
-
-   
-
-
-
-
-   
-  
- 
-
-
