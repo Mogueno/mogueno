@@ -5,7 +5,7 @@
    [![Linkedin: murilopreccaro](https://img.shields.io/badge/-Murilo%20Preccaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-preccaro-565050169/)](https://www.linkedin.com/in/murilo-preccaro-565050169/)
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mogueno.mogueno)
 
-   Onwer of [D4Market.net](https://d4market.net) | [Ja Marquei](https://ja-marquei.webflow.io)
+   Owner of [D4Market.net](https://d4market.net) | [Ja Marquei](https://ja-marquei.webflow.io)
 ```js
 
 ...
