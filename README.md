@@ -9,6 +9,8 @@ _7 years of IT experience as a Full Stack software engineer. The beginning of my
 
 _I enjoy being the owner of the softwares that I build, and working close to the Product/Business team to deliver maximum value to the final customer (Pareto all the way), it is also a oportunity for me to show my creativity and proactivity on the projects that I work for._
 
+Currently building awesome back-office tools for [Coolblue](https://www.coolblue.nl)
+
 Relevant past work experiences and side projects
 
 * Working for the Silicon Valley company [Revvable](https://www.revvable.com/), building the leading experience for powersports dealerships. Maintaining the platform, as taking part on the new features: SMS Messages, Surcharge Support, Chrome Extension, Quoting, Notifications, Third Party integrations and more.
